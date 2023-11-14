@@ -1,9 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2023-11-14T22:26:23.541Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" version="22.1.1" etag="x83cph8p0GSFIVVsMxRO" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-14T22:38:01.486Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="ZSsxP8Jcc9ub0mp-He1N" version="22.1.1" type="github">
   <diagram name="Página-1" id="iR8aLsLcmWEgccaocsmF">
-    <mxGraphModel>
+    <mxGraphModel dx="1035" dy="553" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-1" value="usuario" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-2" value="tarea" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-3" value="asigno" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="30" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-4" value="ID_USUARIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="70" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-5" value="NOMBRE" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-6" value="APELLIDO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="290" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-7" value="ID_TAREA" style="ellipse;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="620" y="130" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-8" value="DESCRIPCION" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="210" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-9" value="FECHA" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-10" value="APELLIDO" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="370" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="69.5" as="sourcePoint" />
+            <mxPoint x="300" y="69.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="470" y="69.5" as="sourcePoint" />
+            <mxPoint x="580" y="69.5" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-18" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="315" y="28" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-19" value="M" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="445" y="28" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-20" value="usuarios_tareas" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-21" value="ID_USUARIO" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="240" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lCeQVa0x_r7y1Q7q20Sj-22" value="ID_TAREA" style="ellipse;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="350" y="320" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
